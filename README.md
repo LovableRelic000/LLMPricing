@@ -43,9 +43,12 @@ Proyecto_Integrador_LLM_Pricing/
 │   ├── 02_precios_por_proveedor.png # Gráfica exploratoria 2 (Proveedores)
 │   ├── 03_correlacion_y_dispersion.png # Gráfica exploratoria 3 (Correlación y dispersión)
 │   ├── 04_codo_y_silhouette.png     # Evaluación de K=2..6 (Inercia y Silhouette)
-│   └── 05_clusters_kmeans.png       # Scatter plot final con centroides (X roja)
+│   ├── 05_clusters_kmeans.png       # Scatter plot final con centroides (X roja)
+│   ├── 06_dashboard_pagina1.png     # Captura del Dashboard — Página 1
+│   └── 07_dashboard_pagina2.png     # Captura del Dashboard — Página 2
 ├── notebooks/
 │   └── analisis_kmeans.ipynb        # Análisis completo paso a paso
+├── Documentacion_Proyecto_Integrador_KMeans.pdf  # Documentación oficial del proyecto (PDF)
 ├── app.py                           # Dashboard interactivo en Streamlit (2 páginas)
 ├── requirements.txt                 # Dependencias del proyecto
 ├── .gitignore                       # Archivos excluidos para GitHub
